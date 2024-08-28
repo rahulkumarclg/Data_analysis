@@ -1,4 +1,4 @@
-# Sales Dashboard - Power BI
+# Upermarket Sales Dashboard - Power BI
 
 ## Overview
 This **Sales Dashboard** is designed for a supermarket shop, providing a comprehensive view of sales performance across various dimensions. It is built using **Power BI** to facilitate data-driven decision-making and track key performance indicators.
